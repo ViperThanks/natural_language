@@ -1,0 +1,27 @@
+<document>
+    <section>
+        <id>None</id>
+        <content>这是一个用来演示如何提取HTML中的中文的HTML文档。</content>
+        <link/>
+    </section>
+    <section>
+        <id>None</id>
+        <content>This is an HTML document to demonstrate how to extract Chinese from HTML.</content>
+        <link/>
+    </section>
+    <section>
+        <id>None</id>
+        <content>一层</content>
+        <link/>
+    </section>
+    <section>
+        <id>None</id>
+        <content>二层</content>
+        <link/>
+    </section>
+    <section>
+        <id>None</id>
+        <content>二层</content>
+        <link/>
+    </section>
+</document>
