@@ -1,0 +1,13 @@
+字段 	含义	举例	
+PassengerId_1	乘客Id
+Survived	是否存活	0 = 死亡, 1 = 存活
+Pclass	船票登记	1 = 最高级, 2 = 中等, 3 = 最低级
+Name	乘船者姓名
+Sex	性别	male = 男，female = 女	
+Age	年龄	
+Sibsp	船上是否有兄弟姐妹/配偶	
+Parch	船上是否有兄弟父母/孩子
+Ticket 	船票Id
+Fare	票价
+Cabin	房间数量
+Embarked	出发港口（地名）	C = Cherbourg, Q = Queenstown, S = Southampton 
